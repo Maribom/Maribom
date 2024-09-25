@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Maribom
+- 👋 Hi, I’m Maritza Bombon
 - 👀 I’m interested in User Experience design and Webdevelopment
 - 🌱 I’m currently learning webdevelopment and UX design skills
 - 💞️ I’m looking to collaborate on webpages
